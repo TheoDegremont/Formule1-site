@@ -1,8 +1,18 @@
-h1{
+.titre{ 
     text-align: center;
     color: red;
 }
 
-p{
-    color: blue;
+.description{
+    color: white;
+}
+
+div {
+    display: flex;
+  justify-content: center;
+  }
+
+body{
+    background: rgb(9,9,138);
+    background: linear-gradient(180deg, rgba(9,9,138,1) 7%, rgba(36,36,43,1) 48%, rgba(0,0,0,1) 95%);
 }
